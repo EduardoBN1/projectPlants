@@ -26,12 +26,30 @@ p {
   padding-left: 40px;
 }
 
+nav>ul>li>a, nav>ul>li>a:visited{
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #40AEB5;
+  text-align: center;
+  padding: 10px;
+}
+
+nav>ul>li>a:hover{
+  color: white;
+  background-color: gray;
+}
+
+
+ul>li{
+  list-style: none;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 7px;
-  list-style: none;
   width: 800px;
 }
 
@@ -52,7 +70,7 @@ p {
   flex-basis: 250px;
 }
 
-.imagenli{
-  margin-top: 20px;
-  list-style: none;
+nav>a>img{
+  padding-top: 10px;
+  padding-left: 40px;
 }

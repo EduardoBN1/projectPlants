@@ -3,14 +3,14 @@
     <channel>
         <title>Plant Webpage</title>
         <description>Blog about various plants</description>
-        <link>https://eduardobn1.github.io/projectRSS/</link>
+        <link>https://eduardobn1.github.io/projectPlants/</link>
         <pubDate>Sat, 24 Nov 2022 14:00:00 GMT+1</pubDate>
         <managingEditor>eduardobn@iessanclemente.net</managingEditor>
         <item>
             <title>Dracaena Trifasciata</title>
-            <link>https://eduardobn1.github.io/projectRSS/java</link>
+            <link>https://eduardobn1.github.io/projectPlants/plantdracaena.html</link>
             <pubDate>Sat, 24 Nov 2022 14:00:00 GMT+1</pubDate>
-            <description>Tricks about Java</description>
+            <description>The dracaena plant</description>
         </item>
     </channel>
 </rss>
