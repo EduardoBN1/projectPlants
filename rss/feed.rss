@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Plant Webpage</title>
+        <description>Blog about various plants</description>
+        <link>https://eduardobn1.github.io/projectRSS/</link>
+        <pubDate>Sat, 24 Nov 2022 14:00:00 GMT+1</pubDate>
+        <managingEditor>eduardobn@iessanclemente.net</managingEditor>
+        <item>
+            <title>Dracaena Trifasciata</title>
+            <link>https://eduardobn1.github.io/projectRSS/java</link>
+            <pubDate>Sat, 24 Nov 2022 14:00:00 GMT+1</pubDate>
+            <description>Tricks about Java</description>
+        </item>
+    </channel>
+</rss>
